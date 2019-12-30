@@ -1,0 +1,2 @@
+# WpfSceneSimulation
+使用wpf做现场模拟图时简单控制控件移动或旋转
